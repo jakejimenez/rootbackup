@@ -1,5 +1,4 @@
 --BEGIN--
-
 # r00t1000.github.io
 My personal page for projects.
 
@@ -14,7 +13,6 @@ Descriptions for directories:
 /projects - Current projects
   /eagle_height - A calculator that uses your height and tells you youre height in bald eagles.
 /projcheck - Current progress on projects
-
 --END--
 
 
