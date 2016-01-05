@@ -6,7 +6,7 @@ My personal page for projects.
 
 /themes
 
-/projects
+/projects =+= 
 	/eagle_height
 	
 /projcheck
@@ -16,7 +16,7 @@ My personal page for projects.
 
 /themes - HTML&CSS Themes with Javascript
 
-/projects - Current projects
+/projects - Current projects =+= 
   /eagle_height - A calculator that uses your height and tells you youre height in bald eagles.
   
 /projcheck - Current progress on projects
