@@ -1087,7 +1087,6 @@ body {
   line-height: 1.42857143;
   color: #333;
   background-image: url(http://i.imgur.com/CmqwDEm.png);
-  background-size: cover;
 }
 input,
 button,
@@ -4994,7 +4993,20 @@ a.badge:focus {
 }
 
 /* Ending of .gif-background class */
+.media-flex {
+    position: relative;
+    height: 0px;
+}
 
+.media-flex .gfyitem > div,
+.media-flex .gfyitem .gfyPreLoadCanvas,
+.media-flex .gfyitem .gfyVid,
+.media-flex .gfyitem  .gfyGif {
+    position: absolute !important;
+    top: 0; right: 0; bottom: 0; left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
 .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
