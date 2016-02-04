@@ -1084,9 +1084,7 @@ html {
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  line-height: 1.42857143;
-  color: #333;
-  background-image: url(http://i.imgur.com/CmqwDEm.png);
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(255, 255, 255, 0) 34%, rgba(31, 31, 31, 0.69) 190%);
 }
 input,
 button,
@@ -4969,9 +4967,9 @@ a.badge:focus {
   color: inherit;
   background-color: #ECEFF1;
 }
-.gif-background h2, 
+.gif-background h2,
 .gif-background .h2 {
-   color: inherit; 
+   color: inherit;
    text-align: center;
 }
 .gif-background p {
