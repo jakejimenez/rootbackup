@@ -1086,7 +1086,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-image: url(http://i.imgur.com/CmqwDEm.png);
+  background-color: #fff;
 }
 input,
 button,
@@ -4958,61 +4958,12 @@ a.badge:focus {
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
-#align-center-override {
-    text-align: center;
-}
-/* Starting of .gif-background class */
-.gif-background {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  color: inherit;
-  background-color: #ECEFF1;
-}
-.gif-background h2, 
-.gif-background .h2 {
-   color: inherit; 
-   text-align: center;
-}
-.gif-background p {
-  margin-bottom: 15px;
-  font-size: 21px;
-  font-weight: 200;
-}
-.gif-background > hr {
-  border-top-color: #d5d5d5;
-}
-.container .gif-background,
-.container-fluid .gif-background {
-  padding-right: 15px;
-  padding-left: 15px;
-  border-radius: 6px;
-}
-.gif-background .container {
-  max-width: 100%;
-}
-
-/* Ending of .gif-background class */
-.media-flex {
-    position: relative;
-    height: 0px;
-}
-
-.media-flex .gfyitem > div,
-.media-flex .gfyitem .gfyPreLoadCanvas,
-.media-flex .gfyitem .gfyVid,
-.media-flex .gfyitem  .gfyGif {
-    position: absolute !important;
-    top: 0; right: 0; bottom: 0; left: 0;
-    width: 100% !important;
-    height: 100% !important;
-}
 .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #ECEFF1;
+  background-color: #eee;
 }
 .jumbotron h1,
 .jumbotron .h1 {
