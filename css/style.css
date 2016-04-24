@@ -1,0 +1,20 @@
+body {
+  background-image: url("http://www.thewallpapers.org/photo/57197/mountains.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.card-holder {
+  margin: 0 auto;
+  height: 50%;
+  width: 20%;
+  margin-top: 200px;
+}
+.thank-you-modal {
+  text-align: center;
+  padding-bottom: 50px;
+}
