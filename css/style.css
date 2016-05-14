@@ -1,3 +1,4 @@
+/* Body stuff */
 body {
   background-image: url("http://www.thewallpapers.org/photo/57197/mountains.jpg");
   background-repeat: no-repeat;
@@ -8,13 +9,18 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+/* The card wrapper */
 .card-holder {
   margin: 0 auto;
   height: 50%;
   width: 20%;
   margin-top: 200px;
 }
+
+/* Removed
 .thank-you-modal {
   text-align: center;
   padding-bottom: 50px;
 }
+*/
