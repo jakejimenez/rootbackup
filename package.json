@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/r00t1000/portfolio.git"
+  },
+  "author": "r00t1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/r00t1000/portfolio/issues"
+  },
+  "homepage": "https://gitlab.com/r00t1000/portfolio#README",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.11",
+    "gulp-sass": "^2.3.2"
+  }
+}
